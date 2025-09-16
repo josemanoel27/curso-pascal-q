@@ -44,8 +44,7 @@ begin
 	readln(Escolaridade);
 
 
-	writeln();
-	writeln('============================');
+	writeln(#13#10,'============================');
 	writeln('Dados do Cliente Cadastrado:');
 	writeln('============================');
 	writeln('Nome Completo: ', NomeCompleto);
